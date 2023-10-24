@@ -1,6 +1,6 @@
 {
-    "id": "03c9a01f-bd46-4e7c-9a60-4282039094e6",
-    "name": "Python Diabetes Prediction",
-    "description": "Python XGBoost for Diabetes Prediction",
+    "id": "f8df0bec-12d1-4d2d-920f-4448503df82d",
+    "name": "Python PIMA InDB GLM",
+    "description": "Python PIMA InDB GLM for Diabetes Prediction",
     "language": "python"
 }
